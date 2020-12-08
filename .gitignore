@@ -104,6 +104,8 @@ typings/
 
 # dotenv environment variables file
 .env
+.env.dev
+.env.prod
 .env.test
 .env*.local
 
